@@ -16,6 +16,7 @@ Simply make a pull request with added link to this README file.
 
 * [Libraries](#libraries)
     * [Animations](#animations)
+    * [Alerts](#Alerts)
     * [Pull-to-Refresh](#Pull-to-Refresh)
     * [Banner](#Banner)
     * [Pagination](#Pagination)
@@ -31,6 +32,9 @@ Collection of some of the best libraries.
 
 * [Hero](https://github.com/lkzhao/Hero) - Elegant transition library **[Swift,iOS,tvOS]**
 
+### Alerts
+
+* [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - customizable alerts and action sheets **[Swift,iOS]**
 
 ### Pull-to-Refresh
 
@@ -43,6 +47,8 @@ Collection of some of the best libraries.
 
 ### Pagination
 
+* [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar **[Swift,iOS]**
+* [Pageboy](https://github.com/uias/Pageboy) - highly informative page view controller **[Swift,iOS]**
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) **[Swift,iOS]**
 
 ### Audio
