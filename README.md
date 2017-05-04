@@ -1,6 +1,6 @@
-# UltimateiOSReference - [WIP] 
+# 🚀 Ultimate iOS Reference - [WIP] 
 
-🚀 Ultimate iOS Reference - Learn and share to build a better iOS app
+Learn and share to build a better iOS app
 
 This project inspired by [UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference/edit/master/README.md).
 
