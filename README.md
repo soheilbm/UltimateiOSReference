@@ -16,6 +16,9 @@ Simply make a pull request with added link to this README file.
 
 * [Libraries](#libraries)
     * [Animations](#animations)
+    * [Pull-to-Refresh](#Pull-to-Refresh)
+    * [Banner](#Banner)
+    * [Audio](#Audio)
 
 
 ## Libraries
