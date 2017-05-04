@@ -19,6 +19,7 @@ Simply make a pull request with added link to this README file.
     * [Pull-to-Refresh](#Pull-to-Refresh)
     * [Banner](#Banner)
     * [Audio](#Audio)
+* [Self-Study-Projects](#Self-Study-Projects)
 
 
 ## Libraries
@@ -42,3 +43,7 @@ Collection of some of the best libraries.
 ### Audio
 
 * [AudioKit](https://github.com/audiokit/AudioKit) **[Swift,iOS,tvOS,macOS]**
+
+
+## Self-Study-Projects
+* [Swift30Projects](https://github.com/soapyigu/Swift30Projects) - 30 Mini swift App [Swift,iOS]
