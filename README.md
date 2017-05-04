@@ -31,6 +31,7 @@ Collection of some of the best libraries.
 ### Animations
 
 * [Hero](https://github.com/lkzhao/Hero) - Elegant transition library **[Swift,iOS,tvOS]**
+* [material-motion-swift](https://github.com/material-motion/material-motion-swift) - toolkit for building responsive motion using Core Animation **[Swift,iOS]**
 
 ### Alerts
 
