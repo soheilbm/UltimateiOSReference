@@ -25,3 +25,17 @@ Collection of some of the best libraries.
 
 * [Hero](https://github.com/lkzhao/Hero) - Elegant transition library **[Swift,iOS,tvOS]**
 
+
+### Pull-to-Refresh
+
+* [SwiftPullToRefresh](https://github.com/WXGBridgeQ/SwiftPullToRefresh) **[Swift,iOS]**
+* [DCPullRefresh](https://github.com/Tangdixi/DCPullRefresh) **[Swift,iOS]**
+
+### Banner
+
+* [NotificationBanner](https://github.com/Daltron/NotificationBanner) **[Swift,iOS]**
+
+
+### Audio
+
+* [AudioKit](https://github.com/audiokit/AudioKit) **[Swift,iOS,tvOS,macOS]**
