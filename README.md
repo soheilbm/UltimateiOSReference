@@ -18,7 +18,9 @@ Simply make a pull request with added link to this README file.
     * [Animations](#animations)
     * [Pull-to-Refresh](#Pull-to-Refresh)
     * [Banner](#Banner)
+    * [Pagination](#Pagination)
     * [Audio](#Audio)
+    * [Effects](#Effects)
 * [Self-Study-Projects](#Self-Study-Projects)
 
 
@@ -32,18 +34,25 @@ Collection of some of the best libraries.
 
 ### Pull-to-Refresh
 
-* [SwiftPullToRefresh](https://github.com/WXGBridgeQ/SwiftPullToRefresh) **[Swift,iOS]**
-* [DCPullRefresh](https://github.com/Tangdixi/DCPullRefresh) **[Swift,iOS]**
+* [SwiftPullToRefresh](https://github.com/WXGBridgeQ/SwiftPullToRefresh) - easy way to implement pull-down-to-refresh and pull-up-to-load-more feature based on UIScrollView extension **[Swift,iOS]**
+* [DCPullRefresh](https://github.com/Tangdixi/DCPullRefresh) - A sticky pull down refresh control **[Swift,iOS]**
 
 ### Banner
 
-* [NotificationBanner](https://github.com/Daltron/NotificationBanner) **[Swift,iOS]**
+* [NotificationBanner](https://github.com/Daltron/NotificationBanner) - Paging view controller with customizable menu **[Swift,iOS]**
 
+### Pagination
+
+* [PagingMenuController](https://github.com/kitasuke/PagingMenuController) **[Swift,iOS]**
 
 ### Audio
 
-* [AudioKit](https://github.com/audiokit/AudioKit) **[Swift,iOS,tvOS,macOS]**
+* [AudioKit](https://github.com/audiokit/AudioKit) - Swift audio synthesis, processing, & analysis **[Swift,iOS,tvOS,macOS]**
+
+### Effects
+
+* [PPMusicImageShadow](https://github.com/PierrePerrin/PPMusicImageShadow) - imitates real time the shadow blurred effect  **[Swift,iOS]**
 
 
 ## Self-Study-Projects
-* [Swift30Projects](https://github.com/soapyigu/Swift30Projects) - 30 Mini swift App [Swift,iOS]
+* [Swift30Projects](https://github.com/soapyigu/Swift30Projects) - 30 Mini swift App **[Swift,iOS]**
