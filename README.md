@@ -14,13 +14,13 @@ Simply make a pull request with added link to this README file.
 
 * [Libraries](#libraries)
     * [Animations](#animations)
-    * [Alerts](#Alerts)
-    * [Pull-to-Refresh](#Pull-to-Refresh)
-    * [Banner](#Banner)
-    * [Pagination](#Pagination)
-    * [Audio](#Audio)
-    * [Effects](#Effects)
-* [Self-Study-Projects](#Self-Study-Projects)
+    * [Alerts](#alerts)
+    * [Pull-to-Refresh](#pull-to-refresh)
+    * [Banner](#banner)
+    * [Pagination](#pagination)
+    * [Audio](#audio)
+    * [Effects](#effects)
+* [Self-Study-Projects](#self-study-projects)
 
 
 ## Libraries
